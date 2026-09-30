@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLEMbRq6j8c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vladimir\\source\\repos\\ReparaLab\\ReparaLab.WinForms\\ReparaLab.WinForms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Vladimir\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.1\\microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "C:\\Users\\Vladimir\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

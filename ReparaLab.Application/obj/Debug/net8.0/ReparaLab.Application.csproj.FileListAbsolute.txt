@@ -1,0 +1,15 @@
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\bin\Debug\net8.0\ReparaLab.Application.deps.json
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\bin\Debug\net8.0\ReparaLab.Application.dll
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\bin\Debug\net8.0\ReparaLab.Application.pdb
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\bin\Debug\net8.0\ReparaLab.Domain.dll
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\bin\Debug\net8.0\ReparaLab.Domain.pdb
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLab.Application.csproj.AssemblyReference.cache
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLab.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLab.Application.AssemblyInfoInputs.cache
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLab.Application.AssemblyInfo.cs
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLab.Application.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLa.F2D971CB.Up2Date
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLab.Application.dll
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\refint\ReparaLab.Application.dll
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ReparaLab.Application.pdb
+C:\Users\Vladimir\source\repos\ReparaLab\ReparaLab.Application\obj\Debug\net8.0\ref\ReparaLab.Application.dll
